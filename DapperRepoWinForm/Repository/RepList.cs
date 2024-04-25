@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using Dapper;
 using System.Data;
 using DapperRepoWinForm.Utilities;
+
 namespace DapperRepoWinForm.Repository
 {
     class RepList<T> where T : class
