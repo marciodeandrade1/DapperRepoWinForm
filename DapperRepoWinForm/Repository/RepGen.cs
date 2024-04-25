@@ -5,6 +5,7 @@ using Dapper;
 using DapperRepoWinForm.Utilities;
 namespace DapperRepoWinForm.Repository
 {
+    //classe chamará os procedimentos armazenados que retornam grupos de dados ou uma classe
     class RepGen
     {
 
